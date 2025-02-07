@@ -1,0 +1,515 @@
+{
+  "songs": [
+    {
+      "title": "295",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/295.mp3",
+      "id": 0
+    },
+    {
+      "title": "Bandana",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Bandana.mp3",
+      "id": 1
+    },
+    {
+      "title": "Check It Out",
+      "artist": "Parmish Verma, Paradox",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Check It Out.mp3",
+      "id": 2
+    },
+    {
+      "title": "Aaye Haaye",
+      "artist": "Karan Aujla, Neha Kakkar",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Aaye Haaye.mp3",
+      "id": 3
+    },
+    {
+      "title": "Jhol",
+      "artist": "Maanu, Annural Khalid",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Jhol.mp3",
+      "id": 4
+    },
+    {
+      "title": "Buckle Up",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Buckle Up.mp3",
+      "id": 5
+    },
+    {
+      "title": "MEDAL",
+      "artist": "Chandra Brar, MixSingh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/MEDAL.mp3",
+      "id": 6
+    },
+    {
+      "title": "Mera Mann",
+      "artist": "Juss, MixSingh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Mera Mann.mp3",
+      "id": 7
+    },
+    {
+      "title": "Millionaire",
+      "artist": "Yo Yo Honey Singh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Millionaire.mp3",
+      "id": 8
+    },
+    {
+      "title": "Old Money",
+      "artist": "AP Dhillon",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Old Money.mp3",
+      "id": 9
+    },
+    {
+      "title": "True Stories",
+      "artist": "AP Dhillon, Shinda Kahlon",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/True Stories.mp3",
+      "id": 10
+    },
+    {
+      "title": "Wavy",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Wavy.mp3",
+      "id":11
+    },
+    {
+      "title": "Apa Fer Milaange",
+      "artist": "Savi Kahlon, The Mas...",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Apa+Fer+Milaange.mp3",
+      "id": 12
+    },
+    {
+      "title": "Arjan Vailly",
+      "artist": "Manan Bhardwaj",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Arjan+Vailly.mp3",
+      "id": 13
+    },
+    {
+      "title": "Attraction",
+      "artist": "Sukha, Prodgk",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Attraction.mp3",
+      "id": 14
+    },
+    {
+      "title": "Bachke Bachke",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Bachke+Bachke.mp3",
+      "id": 15
+    },
+    {
+      "title": "Balle Jatta",
+      "artist": "Diljit Dosanjh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Balle+Jatta.mp3",
+      "id": 16
+    },
+    {
+      "title": "Baller",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Baller.mp3",
+      "id": 17
+    },
+    {
+      "title": "Belong",
+      "artist": "Straight Bank, Big Boi Deep",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Belong.mp3",
+      "id": 18
+    },
+    {
+      "title": "California Love",
+      "artist": "Cheema Y, Gur Sidhu",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/California+Love.mp3",
+      "id": 19
+    },
+    {
+      "title": "Cheques",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Cheques.mp3",
+      "id": 20
+    },
+    {
+      "title": "Chorni",
+      "artist": "DIVINE, Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Chorni.mp3",
+      "id": 21
+    },
+    {
+      "title": "Daku",
+      "artist": "Chani Nattan, Inderpal Moga",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Daku.mp3",
+      "id": 22
+    },
+    {
+      "title": "Dhundhala",
+      "artist": "Yashraj, Dropped Out",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Dhundhala.mp3",
+      "id": 23
+    },
+    {
+      "title": "Drippy",
+      "artist": "Sidhu Moose Wala, Sunny Malton",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Drippy.mp3",
+      "id": 24
+    },
+    {
+      "title": "Final Thoughts",
+      "artist": "AP Dhillon, Shinda Kahlon",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Final+Thoughts.mp3",
+      "id": 25
+    },
+    {
+      "title": "God Damn",
+      "artist": "Badshah, Karan Aujla; Uchana Amit",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/God+Damn.mp3",
+      "id": 26
+    },
+    {
+      "title": "Hass Hass",
+      "artist": "Diljit Dosanjh, Sia, Gravy",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Hass+Hass.mp3",
+      "id": 27
+    },
+    {
+      "title": "Heeriye",
+      "artist": "Jasleen Royal, Arijit Singh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Heeriye.mp3",
+      "id": 28
+    },
+    {
+      "title": "Her",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Her.mp3",
+      "id": 29
+    },
+    {
+      "title": "Hisaab",
+      "artist": "DIVINE, Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Hisaab.mp3",
+      "id": 30
+    },
+    {
+      "title": "Hood Anthem",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Hood+Anthem.mp3",
+      "id": 31
+    },
+    {
+      "title": "Hot Shit",
+      "artist": "Arjan Dhillon",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Hot+Shit.mp3",
+      "id": 32
+    },
+    {
+      "title": "Jatt Mehkma",
+      "artist": "Yo Yo Honey Singh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Jatt+Mehkma.mp3",
+      "id": 33
+    },
+    {
+      "title": "Jatt Vailly",
+      "artist": "Diljit Dosanjh, thiarajxtt",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Jatt+Vailly.mp3",
+      "id": 34
+    },
+    {
+      "title": "Jee Ni Lagda",
+      "artist": "Karan Aujla, Ikky",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Jee+Ni+Lagda.mp3",
+      "id": 35
+    },
+    {
+      "title": "King Shit",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/King+Shit.mp3",
+      "id": 36
+    },
+    {
+      "title": "Kinni Kinni",
+      "artist": "Diljit Dosanjh, thiarajxtt",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Kinni+Kinni.mp3",
+      "id": 37
+    },
+    {
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Lover.mp3",
+      "id": 38
+    },
+    {
+      "title": "Luna",
+      "artist": "Diljit Dosanjh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Luna.mp3",
+      "id": 39
+    },
+    {
+      "title": "Mera Na",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Mera+Na.mp3",
+      "id": 40
+    },
+    {
+      "title": "Mi Amor",
+      "artist": "Sharn, The Paul",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Mi+Amor.mp3",
+      "id": 41
+    },
+    {
+      "title": "Milde",
+      "artist": "Arjan Dhillon, Mxrci",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Milde.mp3",
+      "id": 42
+    },
+    {
+      "title": "Admiring You",
+      "artist": "Karan Aujla, Ikky...",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Admire.mp3",
+      "id": 43
+    },
+    {
+      "title": "Mohalla",
+      "artist": "Afsana Khan, Abeer",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Mohalla.mp3",
+      "id": 44
+    },
+    {
+      "title": "Mombattiye",
+      "artist": "Diljit Dosanjh, Jaani",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Mombattiye.mp3",
+      "id": 45
+    },
+    {
+      "title": "Moon Rise",
+      "artist": "Guru Randhawa, Sanj",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Moon+Rise.mp3",
+      "id": 46
+    },
+    {
+      "title": "No Love",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/No+Love.mp3",
+      "id": 47
+    },
+    {
+      "title": "Notorious",
+      "artist": "Wazir Patar",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Notorious.mp3",
+      "id": 48
+    },
+    {
+      "title": "Obsessed",
+      "artist": "Riar Saab, Abhijay Sharma",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Obsessed.mp3",
+      "id": 49
+    },
+    {
+      "title": "Akhiyaan Gulaab",
+      "artist": "Mitraz",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Akhiyaan+Gulaab.mp3",
+      "id": 50
+    },
+    {
+      "title": "On Top",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/On+Top.mp3",
+      "id": 51
+    },
+    {
+      "title": "One Love",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/One+Love.mp3",
+      "id": 52
+    },
+    {
+      "title": "Only You",
+      "artist": "AR Paisley",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Only+You.mp3",
+      "id": 53
+    },
+    {
+      "title": "P.O.V",
+      "artist": "Karan Aujla, Yeah Proof",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/P.O.V.mp3",
+      "id": 54
+    },
+    {
+      "title": "Pagol",
+      "artist": "Deep Jandu; Bohemia",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Pagol.mp3",
+      "id": 55
+    },
+    {
+      "title": "Players",
+      "artist": "Badshah, Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Players.mp3",
+      "id": 56
+    },
+    {
+      "title": "Problems Over Peace",
+      "artist": "AP Dhillon, Stormzy",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Problems+Over+Peace.mp3",
+      "id": 57
+    },
+    {
+      "title": "Real Talk",
+      "artist": "AP Dhillon, Shinda Kahlon",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Real+Talk.mp3",
+      "id": 58
+    },
+    {
+      "title": "Reshmi Rumal",
+      "artist": "Arjan Dhillon, Arsh Heer",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Reshmi+Rumal.mp3",
+      "id": 59
+    },
+    {
+      "title": "Rubicon Drill",
+      "artist": "Laddi Chahal, Parmish Verma",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Rubicon+Drill.mp3",
+      "id": 60
+    },
+    {
+      "title": "Scars",
+      "artist": "AP Dhillon",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Scars.mp3",
+      "id": 61
+    },
+    {
+      "title": "Scenario",
+      "artist": "Sammohit, Mahlan",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Scenario.mp3",
+      "id": 62
+    },
+    {
+      "title": "Sheesha",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Sheesha.mp3",
+      "id": 63
+    },
+    {
+      "title": "Showstopper",
+      "artist": "JERRY",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Showstopper.mp3",
+      "id": 64
+    },
+    {
+      "title": "Sifar",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Sifar.mp3",
+      "id": 65
+    },
+    {
+      "title": "8 ASLE",
+      "artist": "Sukha, Chani Nattan",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/8+ASLE.mp3",
+      "id": 66
+    },
+    {
+      "title": "9:45",
+      "artist": "Prabh Singh, Jay Trak",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/9_45.mp3",
+      "id": 67
+    },
+    {
+      "title": "52 Bars",
+      "artist": "Karan Aujla, Ikky",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/52+Bars.mp3",
+      "id": 68
+    },
+    {
+      "title": "4.10",
+      "artist": "DIVINE",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/4.10.mp3",
+      "id": 69
+    },
+    {
+      "title": "1234",
+      "artist": "Parmish Verma, Chani...",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/1234.mp3",
+      "id": 70
+    },
+    {
+      "title": "angels",
+      "artist": "HRJXT, Intense",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/angels.mp3",
+      "id":71
+    },
+    {
+      "title": "ANTIDOTE",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/ANTIDOTE.mp3",
+      "id": 72
+    }
+  ]
+}
