@@ -11,3 +11,115 @@ body{
     background-color: #0e0e0f;
     transition: all ease;
 }
+.cover-image {
+    width: 50%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    background-color: #3683da;
+
+    width: 100%;
+    padding: 2.5rem 0rem;
+    border-radius: 0 0 .75rem .75rem;
+
+}
+.controls i{
+    font-size: 2rem;
+    margin: 0rem 2rem;
+}
+ i:hover{
+    cursor: pointer;
+}
+
+.player-container  button {
+    background: #3683da;
+    border: none;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    font-size: 16px;
+    cursor: pointer;
+  
+}
+
+input[type='range'] {
+    width: 100%;
+    height: 0.1rem;
+    margin:0 .5rem ;
+    margin-top: 10px;
+}
+
+.allsongs{
+   width: 100%;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #202026;
+}
+.allsongs .list{
+    height: 14.5rem;
+    overflow-y: scroll;
+}
+
+.card{
+    background-color: #202026;
+    color: white;
+    border: none;
+    width: 98%;
+}
+.card:hover{
+    cursor: pointer;
+}
+#palying{
+    background-color: #3683da;
+    color: white;
+    border: 1px solid #3683da;
+}
+.card #play{
+    font-size: 2rem;
+}
+.card #list{
+    width: 90%;
+}
+.allsongs .image{
+    width: 3rem;
+    position: relative;
+}
+.allsongs .image #video{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 3rem;
+    opacity: 70%;
+}
+.allsongs img{
+      width: 100%;
+}
+.card-body{
+    align-items: center;
+    padding: 0rem;
+}
+.card-body h5{
+    margin: 0% 4rem 0 2rem;
+}
+.right{
+    flex-direction: column;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    border-radius: 2rem;
+
+  }
+  ::-webkit-scrollbar-track {
+    background: #202026;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #3683da;
+  }
+  
