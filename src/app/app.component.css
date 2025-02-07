@@ -200,21 +200,15 @@ input[type='range'] {
     flex-direction: column;
 }
 
-/* width */
 ::-webkit-scrollbar {
     width: 6px;
     border-radius: 2rem;
 
   }
-  
-  /* Track */
   ::-webkit-scrollbar-track {
     background: #202026;
-    
-
   }
   
-  /* Handle */
   ::-webkit-scrollbar-thumb {
     background: #3683da;
   }
