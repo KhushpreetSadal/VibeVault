@@ -101,3 +101,104 @@ width: 8rem;
     width: 95%;
 }
 
+
+
+@media screen and (max-width: 990px){
+    .card-body{
+        align-items: center;
+        padding: 0rem;
+        justify-content: space-between;
+    }
+   
+    .card-body p{
+        display: none;
+    }
+    .card #list{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 750px){
+    
+    .trending  #top .text h5{
+        display: none;
+
+    }
+    .trending  #top img{
+        width: 5rem;
+    }
+    .allsongs .list{
+        height: 11rem;
+        overflow-y: scroll;
+    }
+    .card-body h5{
+        font-size: 1rem;
+    }
+
+}
+
+@media screen and (max-width: 610px){
+
+    .trending{
+        margin: 1rem;
+    }
+    .allsongs .image{
+        width: 2rem;
+    }
+
+}
+
+@media screen and (max-width: 520px){
+    header{
+        padding: .5rem 2rem;
+    }
+
+    .form {
+        width: 50%;
+    }
+    .card-body h5 {
+        margin: 0% 1rem 0 2rem;
+    }
+    .trending{
+        flex-direction: column-reverse;
+    }
+    .left{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 2rem;
+    }
+    .right{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 3rem;
+
+    }
+    .allsongs {
+
+        margin-top: 3rem;
+    }
+    .trending #top {
+        margin: 3rem auto;
+    }
+    header .nav-links img{
+        width: 6rem;
+    }
+}
+@media screen and (max-width: 400px){
+    header .nav-links img{
+        width: 5rem;
+    }
+   
+    .left{
+        width: 100%;
+        margin: auto;
+        
+    }
+    .right{
+        width: 100%;
+        margin: auto;
+    }
+   .list{
+    overflow-x: hidden;
+   }
+}

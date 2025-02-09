@@ -43,10 +43,10 @@
         <div class="list">
           <div class=" cards" *ngFor="let item of allmusic">
         
-            <div id="{{ this.music.source == item.source && this.isPlaying ? 'palying' : '' }}" class="card mb-3" (click)="setPath(item,item.id)" >
+            <div id="{{ this.music.source == item.source && this.isPlaying ? 'palying' : '' }}" class="card mb-3" (click)="start(item,item.id)" >
               <div class="row g-0">
                 <div class="image">
-                  <img [src]="'{{item.cover}}'" class="img-fluid rounded-start" alt="...">
+                  <img [src]="item.cover" class="img-fluid rounded-start" alt="...">
                   <video id="video" *ngIf="this.music.source == item.source && this.isPlaying"  [src]="'./assets/pulse.mp4'" autoplay loop></video>
                   
                 </div>
@@ -58,7 +58,7 @@
                     </div>
                    
                     <i class='bx bx-play' id="play"  *ngIf="this.music.source != item.source || this.isPlaying == false" ></i>
-                    <i class='bx bx-pause' id="play" *ngIf="this.music.source == item.source && this.isPlaying" ></i>
+                    <i class='bx bx-pause' id="play" *ngIf="this.music.source == item.source && this.isPlaying"></i>
                     </div>
                 </div>
               </div>

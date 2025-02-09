@@ -91,7 +91,7 @@ export class AppComponent {
     this.http.get('./trending.json').subscribe((res: any) => {
       this.list = res.trending;
       this.shuffleSongs();
-      this.path(this.list[1])
+      this.path(this.list[0])
     });
   }
 
@@ -183,8 +183,23 @@ export class AppComponent {
     this.audio.currentTime = newTime;
   }
 
+  pause(){
+    this.isPlaying = false;
+    this.audio.pause()
+  }
 
-  songNo = 1;
+  start(item:any,id:any){
+    if(this.isPlaying == true){
+      this.audio.pause()
+    this.isPlaying = false
+  }
+  else{
+     this.setPath(item,id)
+    
+   }
+  }
+
+  songNo = 0;
 
   previous(){
     if(this.songNo > 0){
