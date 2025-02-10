@@ -126,6 +126,8 @@ export class AppComponent {
     this.audio.addEventListener('timeupdate', () => {
       if(this.audio.currentTime == this.audio.duration){
         this.isPlaying = false
+        if(this.All)
+          this.next()
       }
       this.time = this.formatTime(this.audio.currentTime);
       this.fullduration = this.formatTime(this.audio.duration);
@@ -149,7 +151,7 @@ export class AppComponent {
   duration = 0;
   time = "0:00";
   fullduration = "2:34";
-
+  All = false;
 
 
   setdata(){
@@ -157,9 +159,13 @@ export class AppComponent {
     this.audio.play();
     this.isPlaying = true;
     this.audio.addEventListener('timeupdate', () => {
+      
       if(this.time == this.fullduration){
         this.isPlaying == false
+        if(this.All)
+        this.next()
       }
+      
       this.time = this.formatTime(this.audio.currentTime);
       this.fullduration = this.formatTime(this.audio.duration);
       this.currentTime = this.audio.currentTime;
@@ -189,32 +195,52 @@ export class AppComponent {
   }
 
   start(item:any,id:any){
-    if(this.isPlaying == true){
+    if(this.isPlaying == true && this.music.id == id){
       this.audio.pause()
     this.isPlaying = false
   }
   else{
      this.setPath(item,id)
-    
    }
   }
 
   songNo = 0;
 
   previous(){
-    if(this.songNo > 0){
+  
+    if(this.songNo > 0 ){
+      console.log(this.songNo)
       this.songNo--;
       this.setPath(this.allmusic[this.songNo],this.songNo)
-    }
-  }
-  next(){
-    if(this.songNo<=this.allmusic.length){
-      this.songNo++
+    }else{
+      
+      this.songNo = this.allmusic.length-1;
       this.setPath(this.allmusic[this.songNo],this.songNo)
     }
+  
+  }
+  next(){
+    if(this.songNo < this.allmusic.length-1){
+      this.songNo++
+      this.setPath(this.allmusic[this.songNo],this.songNo)
+    }else{
+      this.songNo = 0
+      this.setPath(this.allmusic[this.songNo],this.songNo)
+
+    }
+  }
+
+  playAll(){
+    if(this.All){
+      this.All = false;
+    }else{
+      this.All = true; 
+    }
   }
 
 
+
+  
 
 }
 

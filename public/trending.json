@@ -14,6 +14,13 @@
         "source": "./trending/Bandana.mp3",
         "id": 1
       },
+      {
+        "title": "Check It Out",
+        "artist": "Parmish Verma, Paradox",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/Check It Out.mp3",
+        "id": 2
+      },
         {
             "title": "Aaye Haaye",
             "artist": "Karan Aujla, Neha Kakkar",
@@ -22,13 +29,7 @@
             "id": 3
             
           },
-          {
-            "title": "Check It Out",
-            "artist": "Parmish Verma, Paradox",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Check It Out.mp3",
-            "id": 2
-          },
+        
           {
             "title": "Jhol",
             "artist": "Maanu, Annural Khalid",
@@ -83,7 +84,8 @@
             "title": "Wavy",
             "artist": "Karan Aujla",
             "cover": "assets/cover.jpg",
-            "source": "./trending/Wavy.mp3"
+            "source": "./trending/Wavy.mp3",
+            "id":11
           }
     ]
 }

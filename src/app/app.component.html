@@ -56,7 +56,7 @@
                       <h5 class="card-title">{{item.title|titlecase}}</h5>
                       <p class="card-text">{{item.artist|titlecase}}</p>
                     </div>
-                   
+                    
                     <i class='bx bx-play' id="play"  *ngIf="this.music.source != item.source || this.isPlaying == false" ></i>
                     <i class='bx bx-pause' id="play" *ngIf="this.music.source == item.source && this.isPlaying"></i>
                     </div>
@@ -90,9 +90,12 @@
           
         </div>
         <div class="controls w-100">
+          <i *ngIf="All == true" class='bx bx bx-shuffle text-black'  id="secialbtn" (click)="playAll()"></i>
+          <i *ngIf="All == false" class='bx bx bx-shuffle'  id="secialbtn" (click)="playAll()"></i>
           <i class='bx bx-skip-previous' (click)="previous()" ></i>
           <button class="btn-primary" (click)="togglePlay()">{{ isPlaying ? '⏸' : '▶' }}</button>
           <i class='bx bx-skip-next' (click)="next()"></i>
+          <i class='bx bx bx-download' id="download"></i>
         </div>
       </div>
       
