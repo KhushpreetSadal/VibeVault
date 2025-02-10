@@ -4,88 +4,57 @@
         "title": "295",
         "artist": "Sidhu Moose Wala",
         "cover": "assets/cover.jpg",
-        "source": "./trending/295.mp3",
+        "source": "./trending/295.aac",
         "id": 0
       },
       {
         "title": "Bandana",
         "artist": "Shubh",
         "cover": "assets/cover.jpg",
-        "source": "./trending/Bandana.mp3",
+        "source": "./trending/Bandana.aac",
         "id": 1
       },
       {
-        "title": "Check It Out",
-        "artist": "Parmish Verma, Paradox",
+        "title": "Buckle Up",
+        "artist": "Shubh",
         "cover": "assets/cover.jpg",
-        "source": "./trending/Check It Out.mp3",
-        "id": 2
+        "source": "./trending/Buckle Up.aac",
+        "id": 4
+      },
+      {
+        "title": "Millionaire",
+        "artist": "Yo Yo Honey Singh",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/Millionaire.aac",
+        "id": 7
+      },
+      {
+        "title": "Apa Fer Milaange",
+        "artist": "Savi Kahlon, The Mas...",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/Apa+Fer+Milaange.aac",
+        "id": 9
       },
         {
-            "title": "Aaye Haaye",
-            "artist": "Karan Aujla, Neha Kakkar",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Aaye Haaye.mp3",
-            "id": 3
-            
-          },
-        
-          {
-            "title": "Jhol",
-            "artist": "Maanu, Annural Khalid",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Jhol.mp3",
-            "id": 4
-          },
-          {
-            "title": "Buckle Up",
-            "artist": "Shubh",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Buckle Up.mp3",
-            "id": 5
-          },
-          {
-            "title": "MEDAL",
-            "artist": "Chandra Brar, MixSingh",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/MEDAL.mp3",
-            "id": 6
-          },
-          {
-            "title": "Mera Mann",
-            "artist": "Juss, MixSingh",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Mera Mann.mp3",
-            "id": 7
-          },
-          {
-            "title": "Millionaire",
-            "artist": "Yo Yo Honey Singh",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Millionaire.mp3",
-            "id": 8
-
-          },
-          {
-            "title": "Old Money",
-            "artist": "AP Dhillon",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Old Money.mp3",
-            "id": 9
-          },
-          {
-            "title": "True Stories",
-            "artist": "AP Dhillon, Shinda Kahlon",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/True Stories.mp3",
-            "id": 10
-          },
-          {
-            "title": "Wavy",
-            "artist": "Karan Aujla",
-            "cover": "assets/cover.jpg",
-            "source": "./trending/Wavy.mp3",
-            "id":11
-          }
+        "title": "Baller",
+        "artist": "Shubh",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/Baller.aac",
+        "id": 14
+      },{
+        "title": "Drippy",
+        "artist": "Sidhu Moose Wala, Sunny Malton",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/Drippy.aac",
+        "id": 19
+      },
+      {
+        "title": "One Love",
+        "artist": "Shubh",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/One+Love.aac",
+        "id": 31
+      }
     ]
+    
 }
