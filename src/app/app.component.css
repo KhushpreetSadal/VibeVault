@@ -195,6 +195,9 @@ width: 8rem;
         margin-bottom: 3rem;
 
     }
+    .allsongs .list {
+        height: 17rem;
+    }
     .allsongs {
 
         margin-top: 3rem;
