@@ -95,7 +95,8 @@
           <i class='bx bx-skip-previous' (click)="previous()" ></i>
           <button class="btn-primary" (click)="togglePlay()">{{ isPlaying ? '⏸' : '▶' }}</button>
           <i class='bx bx-skip-next' (click)="next()"></i>
-          <i class='bx bx bx-download' id="download"></i>
+          <a class="text-white" href="{{music.source}}" download>
+          <i class='bx bx bx-download' id="download"></i></a>
         </div>
       </div>
       
