@@ -242,19 +242,13 @@
       "source": "./trending/P.O.V.aac",
       "id": 32
     },
-    {
-      "title": "Players",
-      "artist": "Badshah, Karan Aujla",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Players.aac",
-      "id": 33
-    },
+
     {
       "title": "Rubicon Drill",
       "artist": "Laddi Chahal, Parmish Verma",
       "cover": "assets/cover.jpg",
       "source": "./trending/Rubicon+Drill.aac",
-      "id": 34
+      "id": 33
     },
    
     {
@@ -262,21 +256,21 @@
       "artist": "Sukha, Chani Nattan",
       "cover": "assets/cover.jpg",
       "source": "./trending/8+ASLE.aac",
-      "id": 35
+      "id": 34
     },
     {
       "title": "9:45",
       "artist": "Prabh Singh, Jay Trak",
       "cover": "assets/cover.jpg",
       "source": "./trending/9_45.aac",
-      "id": 36
+      "id": 35
     },
     {
       "title": "52 Bars",
       "artist": "Karan Aujla, Ikky",
       "cover": "assets/cover.jpg",
       "source": "./trending/52+Bars.aac",
-      "id": 37
+      "id": 36
     },
    
     {
@@ -284,14 +278,14 @@
       "artist": "Karan Aujla",
       "cover": "assets/cover.jpg",
       "source": "./trending/ANTIDOTE.aac",
-      "id": 38
+      "id": 37
     },
     {
       "title": "Admire",
       "artist": "Karan Aujla",
       "cover": "assets/cover.jpg",
       "source": "./trending/Admire.aac",
-      "id": 39
+      "id": 38
     }
   ]
 }
