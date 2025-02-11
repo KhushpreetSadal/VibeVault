@@ -73,10 +73,12 @@
       "id": 9
     },
     {
-      "title": "Arjan Vailly",
-      "artist": "Manan Bhardwaj",
+      
+      "title": "Dismiss 141",
+      "artist": " Korala Maan",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Arjan+Vailly.aac",
+      "source": "./trending/Dismiss 141.aac",
+      
       "id": 10
     },
     {
@@ -151,10 +153,11 @@
       "id": 20
     },
     {
-      "title": "Her",
-      "artist": "Shubh",
+      "title": "Issa Jatt",
+      "artist": "Sidhu Moose Wala",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Her.aac",
+      "source": "./trending/Issa Jatt.aac",
+     
       "id": 21
     },
     {
@@ -172,10 +175,11 @@
       "id": 23
     },
     {
-      "title": "Jatt Mehkma",
-      "artist": "Yo Yo Honey Singh",
+      "title": "Same Beef",
+      "artist": "Sidhu Moose Wala",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Jatt+Mehkma.aac",
+      "source": "./trending/Same Beef.aac",
+     
       "id": 24
     },
     {
@@ -305,7 +309,7 @@
       "title": "Antenna",
       "artist": "Kulwinder Billa",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Admire.aac",
+      "source": "./trending/Antenna.aac",
       "id": 41
     },
     {
@@ -316,10 +320,10 @@
       "id": 42
     },
     {
-      "title": "Dismiss 141",
-      "artist": " Korala Maan",
+      "title": "Arjan Vailly",
+      "artist": "Manan Bhardwaj",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Dismiss 141.aac",
+      "source": "./trending/Arjan+Vailly.aac",
       "id": 43
     },
     {
@@ -330,10 +334,11 @@
       "id": 44
     },
     {
-      "title": "Issa Jatt",
-      "artist": "Sidhu Moose Wala",
+
+      "title": "Her",
+      "artist": "Shubh",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Issa Jatt.aac",
+      "source": "./trending/Her.aac",
       "id": 45
     },
     {
@@ -344,10 +349,10 @@
       "id": 46
     },
     {
-      "title": "Same Beef",
-      "artist": "Sidhu Moose Wala",
+      "title": "Jatt Mehkma",
+      "artist": "Yo Yo Honey Singh",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Same Beef.aac",
+      "source": "./trending/Jatt+Mehkma.aac",
       "id": 47
     }
     

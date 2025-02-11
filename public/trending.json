@@ -29,6 +29,13 @@
         "id": 7
       },
       {
+        "title": "Issa Jatt",
+        "artist": "Sidhu Moose Wala",
+        "cover": "assets/cover.jpg",
+        "source": "./trending/Issa Jatt.aac",
+        "id": 45
+      },
+      {
         "title": "Apa Fer Milaange",
         "artist": "Savi Kahlon, The Mas...",
         "cover": "assets/cover.jpg",
