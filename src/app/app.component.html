@@ -47,7 +47,7 @@
               <div class="row g-0">
                 <div class="image">
                   <img [src]="item.cover" class="img-fluid rounded-start" alt="...">
-                  <video id="video" *ngIf="this.music.source == item.source && this.isPlaying"  [src]="'./assets/pulse.mp4'" autoplay loop></video>
+                  <img id="video" *ngIf="this.music.source == item.source && this.isPlaying"  [src]="'./assets/pulse.gif'">
                   
                 </div>
                 <div id="list" class="d-flex align-content-center">

@@ -102,6 +102,7 @@ input[type='range'] {
     height: -moz-available;         
     height: -webkit-fill-available; 
     height: fill-available;
+    margin: 10% 0rem;
     opacity: 70%;
 }
 .allsongs img{
