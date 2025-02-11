@@ -286,6 +286,71 @@
       "cover": "assets/cover.jpg",
       "source": "./trending/Admire.aac",
       "id": 38
+    },
+    {
+      "title":"Alcohol 2.aac",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Alcohol 2.aac",
+      "id": 39
+    },
+    {
+      "title": "Angreji Wali Madam",
+      "artist": "Kulwinder Billa",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Angreji Wali Madam.aac",
+      "id": 40
+    },
+    {
+      "title": "Antenna",
+      "artist": "Kulwinder Billa",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Admire.aac",
+      "id": 41
+    },
+    {
+      "title": "Dawood",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Dawood.aac",
+      "id": 42
+    },
+    {
+      "title": "Dismiss 141",
+      "artist": " Korala Maan",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Dismiss 141.aac",
+      "id": 43
+    },
+    {
+      "title": "East Side Flow",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/East Side Flow.aac",
+      "id": 44
+    },
+    {
+      "title": "Issa Jatt",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Issa Jatt.aac",
+      "id": 45
+    },
+    {
+      "title": "Old Skool",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Old Skool.aac",
+      "id": 46
+    },
+    {
+      "title": "Same Beef",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Same Beef.aac",
+      "id": 47
     }
+    
+
   ]
 }
