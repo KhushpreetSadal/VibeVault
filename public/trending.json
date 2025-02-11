@@ -3,63 +3,63 @@
       {
         "title": "295",
         "artist": "Sidhu Moose Wala",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/295.jpg",
         "source": "./trending/295.aac",
         "id": 0
       },
       {
         "title": "Bandana",
         "artist": "Shubh",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/bandana.jpg",
         "source": "./trending/Bandana.aac",
         "id": 1
       },
       {
         "title": "Buckle Up",
         "artist": "Shubh",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/Buckle Up.jpg",
         "source": "./trending/Buckle Up.aac",
         "id": 4
       },
       {
         "title": "Millionaire",
         "artist": "Yo Yo Honey Singh",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/Millionaire.jpg",
         "source": "./trending/Millionaire.aac",
         "id": 7
       },
       {
         "title": "Issa Jatt",
         "artist": "Sidhu Moose Wala",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/Issa Jatt.jpg",
         "source": "./trending/Issa Jatt.aac",
         "id": 45
       },
       {
         "title": "Apa Fer Milaange",
-        "artist": "Savi Kahlon, The Mas...",
-        "cover": "assets/cover.jpg",
-        "source": "./trending/Apa+Fer+Milaange.aac",
+        "artist": "Savi Kahlon",
+        "cover": "assets/Apa Fer Milaange.jpg",
+        "source": "./trending/Apa Fer Milaange.aac",
         "id": 9
       },
         {
         "title": "Baller",
         "artist": "Shubh",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/Baller.jpg",
         "source": "./trending/Baller.aac",
         "id": 14
       },{
         "title": "Drippy",
         "artist": "Sidhu Moose Wala, Sunny Malton",
-        "cover": "assets/cover.jpg",
+        "cover": "assets/Drippy.jpg",
         "source": "./trending/Drippy.aac",
         "id": 19
       },
       {
         "title": "One Love",
         "artist": "Shubh",
-        "cover": "assets/cover.jpg",
-        "source": "./trending/One+Love.aac",
+        "cover": "assets/One Love.jpg",
+        "source": "./trending/One Love.aac",
         "id": 31
       }
     ]

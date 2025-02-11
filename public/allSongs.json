@@ -3,57 +3,56 @@
     {
       "title": "295",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/295.jpg",
       "source": "./trending/295.aac",
       "id": 0
     },
     {
       "title": "Bandana",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/bandana.jpg",
       "source": "./trending/Bandana.aac",
       "id": 1
     },
     {
       "title": "Check It Out",
       "artist": "Parmish Verma, Paradox",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Check It Out.jpg",
       "source": "./trending/Check It Out.aac",
       "id": 2
     },
     {
       "title": "Aaye Haaye",
       "artist": "Karan Aujla, Neha Kakkar",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Aaye Haaye.jpg",
       "source": "./trending/Aaye Haaye.aac",
       "id": 3
     },
-    
     {
       "title": "Buckle Up",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Buckle Up.jpg",
       "source": "./trending/Buckle Up.aac",
       "id": 4
     },
     {
       "title": "MEDAL",
       "artist": "Chandra Brar, MixSingh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/MEDAL.jpg",
       "source": "./trending/MEDAL.aac",
       "id": 5
     },
     {
       "title": "Mera Mann",
       "artist": "Juss, MixSingh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Mera Mann.jpg",
       "source": "./trending/Mera Mann.aac",
       "id": 6
     },
     {
       "title": "Millionaire",
       "artist": "Yo Yo Honey Singh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Millionaire.jpg",
       "source": "./trending/Millionaire.aac",
       "id": 7
     },
@@ -61,22 +60,22 @@
     {
       "title": "Wavy",
       "artist": "Karan Aujla",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Wavy.jpg",
       "source": "./trending/Wavy.aac",
       "id":8
     },
     {
       "title": "Apa Fer Milaange",
       "artist": "Savi Kahlon, The Mas...",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Apa+Fer+Milaange.aac",
+      "cover": "assets/Apa Fer Milaange.jpg",
+      "source": "./trending/Apa Fer Milaange.aac",
       "id": 9
     },
     {
       
       "title": "Dismiss 141",
       "artist": " Korala Maan",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Dismiss 141.jpg",
       "source": "./trending/Dismiss 141.aac",
       
       "id": 10
@@ -84,56 +83,56 @@
     {
       "title": "Attraction",
       "artist": "Sukha, Prodgk",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Attraction.jpg",
       "source": "./trending/Attraction.aac",
       "id": 11
     },
     {
       "title": "Bachke Bachke",
       "artist": "Karan Aujla",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Bachke+Bachke.aac",
+      "cover": "assets/Bachke Bachke.jpg",
+      "source": "./trending/Bachke Bachke.aac",
       "id": 12
     },
     {
       "title": "Balle Jatta",
       "artist": "Diljit Dosanjh",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Balle+Jatta.aac",
+      "cover": "assets/Balle Jatta.jpg",
+      "source": "./trending/Balle Jatta.aac",
       "id": 13
     },
     {
       "title": "Baller",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Baller.jpg",
       "source": "./trending/Baller.aac",
       "id": 14
     },
     {
       "title": "Belong",
       "artist": "Straight Bank, Big Boi Deep",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Belong.jpg",
       "source": "./trending/Belong.aac",
       "id": 15
     },
     {
       "title": "California Love",
       "artist": "Cheema Y, Gur Sidhu",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/California+Love.aac",
+      "cover": "assets/California Love.jpg",
+      "source": "./trending/California Love.aac",
       "id": 16
     },
     {
       "title": "Cheques",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Cheques.jpg",
       "source": "./trending/Cheques.aac",
       "id": 17
     },
     {
       "title": "Daku",
       "artist": "Chani Nattan, Inderpal Moga",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Daku.jpg",
       "source": "./trending/Daku.aac",
       "id": 18
     },
@@ -141,21 +140,21 @@
     {
       "title": "Drippy",
       "artist": "Sidhu Moose Wala, Sunny Malton",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Drippy.jpg",
       "source": "./trending/Drippy.aac",
       "id": 19
     },
     {
       "title": "Hass Hass",
       "artist": "Diljit Dosanjh, Sia, Gravy",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Hass+Hass.aac",
+      "cover": "assets/Hass Hass.jpg",
+      "source": "./trending/HassHass.aac",
       "id": 20
     },
     {
       "title": "Issa Jatt",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Issa Jatt.jpg",
       "source": "./trending/Issa Jatt.aac",
      
       "id": 21
@@ -163,21 +162,21 @@
     {
       "title": "Hood Anthem",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Hood+Anthem.aac",
+      "cover": "assets/Hood Anthem.jpg",
+      "source": "./trending/Hood Anthem.aac",
       "id": 22
     },
     {
       "title": "Hot Shit",
       "artist": "Arjan Dhillon",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Hot+Shit.aac",
+      "cover": "assets/Hot Shit.jpg",
+      "source": "./trending/Hot Shit.aac",
       "id": 23
     },
     {
       "title": "Same Beef",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Same Beef.jpg",
       "source": "./trending/Same Beef.aac",
      
       "id": 24
@@ -185,23 +184,23 @@
     {
       "title": "Jee Ni Lagda",
       "artist": "Karan Aujla, Ikky",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Jee+Ni+Lagda.aac",
+      "cover": "assets/Jee Ni Lagda.jpg",
+      "source": "./trending/Jee Ni Lagda.aac",
       "id": 25
     },
     {
       "title": "King Shit",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/King+Shit.aac",
+      "cover": "assets/King Shit.jpg",
+      "source": "./trending/King Shit.aac",
       "id": 26
     },
   
     {
       "title": "Mera Na",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Mera+Na.aac",
+      "cover": "assets/Mera Na.jpg",
+      "source": "./trending/Mera Na.aac",
       "id": 27
     },
 
@@ -209,7 +208,7 @@
     {
       "title": "Mombattiye",
       "artist": "Diljit Dosanjh, Jaani",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Mombattiye.jpg",
       "source": "./trending/Mombattiye.aac",
       "id": 28
     },
@@ -217,8 +216,8 @@
     {
       "title": "No Love",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/No+Love.aac",
+      "cover": "assets/No Love.jpg",
+      "source": "./trending/No Love.aac",
       "id": 29
     },
     
@@ -226,23 +225,23 @@
     {
       "title": "Akhiyaan Gulaab",
       "artist": "Mitraz",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Akhiyaan+Gulaab.aac",
+      "cover": "assets/Akhiyaan Gulaab.jpg",
+      "source": "./trending/Akhiyaan Gulaab.aac",
       "id": 30
     },
    
     {
       "title": "One Love",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/One+Love.aac",
+      "cover": "assets/One Love.jpg",
+      "source": "./trending/One Love.aac",
       "id": 31
     },
    
     {
       "title": "P.O.V",
       "artist": "Karan Aujla, Yeah Proof",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/P.O.V.jpg",
       "source": "./trending/P.O.V.aac",
       "id": 32
     },
@@ -250,86 +249,86 @@
     {
       "title": "Rubicon Drill",
       "artist": "Laddi Chahal, Parmish Verma",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Rubicon+Drill.aac",
+      "cover": "assets/Rubicon Drill.jpg",
+      "source": "./trending/Rubicon Drill.aac",
       "id": 33
     },
    
     {
       "title": "8 ASLE",
       "artist": "Sukha, Chani Nattan",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/8+ASLE.aac",
+      "cover": "assets/8 ASLE.jpg",
+      "source": "./trending/8 ASLE.aac",
       "id": 34
     },
     {
       "title": "9:45",
       "artist": "Prabh Singh, Jay Trak",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/9_45.jpg",
       "source": "./trending/9_45.aac",
       "id": 35
     },
     {
       "title": "52 Bars",
       "artist": "Karan Aujla, Ikky",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/52+Bars.aac",
+      "cover": "assets/52 Bars.jpg",
+      "source": "./trending/52 Bars.aac",
       "id": 36
     },
    
     {
       "title": "ANTIDOTE",
       "artist": "Karan Aujla",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/ANTIDOTE.jpg",
       "source": "./trending/ANTIDOTE.aac",
       "id": 37
     },
     {
       "title": "Admire",
       "artist": "Karan Aujla",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Admire.jpg",
       "source": "./trending/Admire.aac",
       "id": 38
     },
     {
-      "title":"Alcohol 2.aac",
+      "title":"Alcohol 2",
       "artist": "Karan Aujla",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Alcohol 2.jpg",
       "source": "./trending/Alcohol 2.aac",
       "id": 39
     },
     {
       "title": "Angreji Wali Madam",
       "artist": "Kulwinder Billa",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Angreji Wali Madam.jpg",
       "source": "./trending/Angreji Wali Madam.aac",
       "id": 40
     },
     {
       "title": "Antenna",
       "artist": "Kulwinder Billa",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Antenna.jpg",
       "source": "./trending/Antenna.aac",
       "id": 41
     },
     {
       "title": "Dawood",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Dawood.jpg",
       "source": "./trending/Dawood.aac",
       "id": 42
     },
     {
       "title": "Arjan Vailly",
       "artist": "Manan Bhardwaj",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Arjan+Vailly.aac",
+      "cover": "assets/Arjan Vailly.jpg",
+      "source": "./trending/Arjan Vailly.aac",
       "id": 43
     },
     {
       "title": "East Side Flow",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/East Side Flow.jpg",
       "source": "./trending/East Side Flow.aac",
       "id": 44
     },
@@ -337,22 +336,22 @@
 
       "title": "Her",
       "artist": "Shubh",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Her.jpg",
       "source": "./trending/Her.aac",
       "id": 45
     },
     {
       "title": "Old Skool",
       "artist": "Sidhu Moose Wala",
-      "cover": "assets/cover.jpg",
+      "cover": "assets/Old Skool.jpg",
       "source": "./trending/Old Skool.aac",
       "id": 46
     },
     {
       "title": "Jatt Mehkma",
       "artist": "Yo Yo Honey Singh",
-      "cover": "assets/cover.jpg",
-      "source": "./trending/Jatt+Mehkma.aac",
+      "cover": "assets/jattMehkma.jpg",
+      "source": "./trending/Jatt Mehkma.aac",
       "id": 47
     }
     
