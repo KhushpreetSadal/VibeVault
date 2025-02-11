@@ -73,10 +73,12 @@
       "id": 9
     },
     {
-      "title": "Arjan Vailly",
-      "artist": "Manan Bhardwaj",
+      
+      "title": "Dismiss 141",
+      "artist": " Korala Maan",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Arjan+Vailly.aac",
+      "source": "./trending/Dismiss 141.aac",
+      
       "id": 10
     },
     {
@@ -151,10 +153,11 @@
       "id": 20
     },
     {
-      "title": "Her",
-      "artist": "Shubh",
+      "title": "Issa Jatt",
+      "artist": "Sidhu Moose Wala",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Her.aac",
+      "source": "./trending/Issa Jatt.aac",
+     
       "id": 21
     },
     {
@@ -172,10 +175,11 @@
       "id": 23
     },
     {
-      "title": "Jatt Mehkma",
-      "artist": "Yo Yo Honey Singh",
+      "title": "Same Beef",
+      "artist": "Sidhu Moose Wala",
       "cover": "assets/cover.jpg",
-      "source": "./trending/Jatt+Mehkma.aac",
+      "source": "./trending/Same Beef.aac",
+     
       "id": 24
     },
     {
@@ -286,6 +290,72 @@
       "cover": "assets/cover.jpg",
       "source": "./trending/Admire.aac",
       "id": 38
+    },
+    {
+      "title":"Alcohol 2.aac",
+      "artist": "Karan Aujla",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Alcohol 2.aac",
+      "id": 39
+    },
+    {
+      "title": "Angreji Wali Madam",
+      "artist": "Kulwinder Billa",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Angreji Wali Madam.aac",
+      "id": 40
+    },
+    {
+      "title": "Antenna",
+      "artist": "Kulwinder Billa",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Antenna.aac",
+      "id": 41
+    },
+    {
+      "title": "Dawood",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Dawood.aac",
+      "id": 42
+    },
+    {
+      "title": "Arjan Vailly",
+      "artist": "Manan Bhardwaj",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Arjan+Vailly.aac",
+      "id": 43
+    },
+    {
+      "title": "East Side Flow",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/East Side Flow.aac",
+      "id": 44
+    },
+    {
+
+      "title": "Her",
+      "artist": "Shubh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Her.aac",
+      "id": 45
+    },
+    {
+      "title": "Old Skool",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Old Skool.aac",
+      "id": 46
+    },
+    {
+      "title": "Jatt Mehkma",
+      "artist": "Yo Yo Honey Singh",
+      "cover": "assets/cover.jpg",
+      "source": "./trending/Jatt+Mehkma.aac",
+      "id": 47
     }
+    
+
   ]
 }
