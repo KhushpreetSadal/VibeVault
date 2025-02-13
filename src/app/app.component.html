@@ -16,8 +16,6 @@
     </div>
 </header>
 
-
-
 <div class="trending">
     <div class="left">
       <h5 class="m-lg-2">Trending New Song</h5>
@@ -80,14 +78,14 @@
           <p class="mb-3">{{ music.artist }}</p>
           <p class="album">{{ music.album }}</p>
   
-          <div class="range d-flex">
-  
-            <p>{{time}}</p>
-            <input type="range" [value]="currentTime" [max]="duration" (input)="seek($event)" />
-            <p>{{fullduration}}</p>
-          </div>
-         
           
+          
+        </div>
+        <div class="range d-flex w-75 mb-2">
+
+          <p>{{time}}</p>
+          <input type="range" [value]="currentTime" [max]="duration" (input)="seek($event)" />
+          <p>{{fullduration}}</p>
         </div>
         <div class="controls w-100">
           <i *ngIf="All == true" class='bx bx bx-shuffle text-black'  id="secialbtn" (click)="playAll()"></i>
@@ -105,4 +103,6 @@
   </div>
   
   
-  
+  <app-playlist></app-playlist>
+
+<app-footer></app-footer>

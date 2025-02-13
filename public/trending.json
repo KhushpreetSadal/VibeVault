@@ -15,10 +15,10 @@
         "id": 1
       },
       {
-        "title": "Buckle Up",
-        "artist": "Shubh",
-        "cover": "assets/Buckle Up.jpg",
-        "source": "./trending/Buckle Up.aac",
+        "title": "P.O.V",
+        "artist": "Karan Aujla, Yeah Proof",
+        "cover": "assets/P.O.V.jpg",
+        "source": "./trending/P.O.V.aac",
         "id": 4
       },
       {
@@ -36,11 +36,11 @@
         "id": 45
       },
       {
-        "title": "Apa Fer Milaange",
-        "artist": "Savi Kahlon",
-        "cover": "assets/Apa Fer Milaange.jpg",
-        "source": "./trending/Apa Fer Milaange.aac",
-        "id": 9
+        "title": "California Love",
+        "artist": "Cheema Y, Gur Sidhu",
+        "cover": "assets/California Love.jpg",
+        "source": "./trending/California Love.aac",
+        "id": 16
       },
         {
         "title": "Baller",

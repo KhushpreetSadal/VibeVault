@@ -74,6 +74,7 @@ input[type='range'] {
     color: white;
     border: none;
     width: 98%;
+    transition: all ease .45s;
 }
 .card:hover{
     cursor: pointer;

@@ -1,0 +1,148 @@
+{
+  "sidhu": [
+    {
+      "title": "Drippy",
+      "artist": "Sidhu Moose Wala, Sunny Malton",
+      "cover": "assets/Drippy.jpg",
+      "source": "./trending/Drippy.aac",
+      "id": 0
+    },
+    {
+      "title": "295",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/295.jpg",
+      "source": "./trending/295.aac",
+      "id": 1
+    },
+    {
+      "title": "Dawood",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/Dawood.jpg",
+      "source": "./trending/Dawood.aac",
+      "id": 2
+    },
+    {
+      "title": "East Side Flow",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/East Side Flow.jpg",
+      "source": "./trending/East Side Flow.aac",
+      "id": 3
+    },
+    {
+      "title": "Issa Jatt",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/Issa Jatt.jpg",
+      "source": "./trending/Issa Jatt.aac",
+      "id": 4
+    },
+    {
+      "title": "Old Skool",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/Old Skool.jpg",
+      "source": "./trending/Old Skool.aac",
+      "id": 5
+    }
+  ],
+  "shubh": [
+    {
+      "title": "Bandana",
+      "artist": "Shubh",
+      "cover": "assets/bandana.jpg",
+      "source": "./trending/Bandana.aac",
+      "id": 0
+    },
+    {
+      "title": "Baller",
+      "artist": "Shubh",
+      "cover": "assets/Baller.jpg",
+      "source": "./trending/Baller.aac",
+      "id": 1
+    },
+    {
+      "title": "Her",
+      "artist": "Shubh",
+      "cover": "assets/Her.jpg",
+      "source": "./trending/Her.aac",
+      "id": 2
+    },
+    {
+      "title": "One Love",
+      "artist": "Shubh",
+      "cover": "assets/One Love.jpg",
+      "source": "./trending/One Love.aac",
+      "id": 3
+    },
+    {
+      "title": "Buckle Up",
+      "artist": "Shubh",
+      "cover": "assets/Buckle Up.jpg",
+      "source": "./trending/Buckle Up.aac",
+      "id": 4
+    }
+  ],
+  "karan": [
+    {
+      "title": "Alcohol 2",
+      "artist": "Karan Aujla",
+      "cover": "assets/Alcohol 2.jpg",
+      "source": "./trending/Alcohol 2.aac",
+      "id": 0
+    },
+    {
+      "title": "Wavy",
+      "artist": "Karan Aujla",
+      "cover": "assets/Wavy.jpg",
+      "source": "./trending/Wavy.aac",
+      "id": 1
+    },
+    {
+      "title": "Bachke Bachke",
+      "artist": "Karan Aujla",
+      "cover": "assets/Bachke Bachke.jpg",
+      "source": "./trending/Bachke Bachke.aac",
+      "id": 2
+    },
+    {
+      "title": "Jee Ni Lagda",
+      "artist": "Karan Aujla, Ikky",
+      "cover": "assets/Jee Ni Lagda.jpg",
+      "source": "./trending/Jee Ni Lagda.aac",
+      "id": 3
+    },
+    {
+      "title": "P.O.V",
+      "artist": "Karan Aujla, Yeah Proof",
+      "cover": "assets/P.O.V.jpg",
+      "source": "./trending/P.O.V.aac",
+      "id": 4
+    },
+    {
+      "title": "52 Bars",
+      "artist": "Karan Aujla, Ikky",
+      "cover": "assets/52 Bars.jpg",
+      "source": "./trending/52 Bars.aac",
+      "id": 5
+    },
+    {
+      "title": "ANTIDOTE",
+      "artist": "Karan Aujla",
+      "cover": "assets/ANTIDOTE.jpg",
+      "source": "./trending/ANTIDOTE.aac",
+      "id": 6
+    },
+    {
+      "title": "Admire",
+      "artist": "Karan Aujla",
+      "cover": "assets/Admire.jpg",
+      "source": "./trending/Admire.aac",
+      "id": 7
+    },
+    {
+      "title": "Aaye Haaye",
+      "artist": "Karan Aujla, Neha Kakkar",
+      "cover": "assets/Aaye Haaye.jpg",
+      "source": "./trending/Aaye Haaye.aac",
+      "id": 8
+    }
+  ]
+}

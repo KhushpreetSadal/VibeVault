@@ -1,14 +1,18 @@
-import { Component, inject } from '@angular/core';
+import { Component, inject, Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { trigger, transition, style, animate, query } from '@angular/animations';
 import { NgFor, NgIf, TitleCasePipe } from '@angular/common';
 import { FormsModule, NgForm } from '@angular/forms';
+import { FooterComponent } from './footer/footer.component';
+import { PlaylistComponent } from './playlist/playlist.component';
+
+
 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [TitleCasePipe,NgIf,NgFor,FormsModule],
+  imports: [TitleCasePipe,NgIf,NgFor,FormsModule,FooterComponent,PlaylistComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
  animations: [
@@ -25,6 +29,10 @@ import { FormsModule, NgForm } from '@angular/forms';
       ])
     ]),
   ],
+})
+
+@Injectable({
+  providedIn:'root'
 })
 
 export class AppComponent {
@@ -150,8 +158,8 @@ export class AppComponent {
   currentTime = 0
   duration = 0;
   time = "0:00";
-  fullduration = "2:34";
-  All = false;
+  fullduration = "3:41";
+  All = true;
 
 
   setdata(){
@@ -209,7 +217,6 @@ export class AppComponent {
   previous(){
   
     if(this.songNo > 0 ){
-      console.log(this.songNo)
       this.songNo--;
       this.setPath(this.allmusic[this.songNo],this.songNo)
     }else{
@@ -221,6 +228,7 @@ export class AppComponent {
   }
   next(){
     if(this.songNo < this.allmusic.length-1){
+      
       this.songNo++
       this.setPath(this.allmusic[this.songNo],this.songNo)
     }else{
