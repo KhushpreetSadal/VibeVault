@@ -38,6 +38,7 @@ import { PlaylistComponent } from './playlist/playlist.component';
 export class AppComponent {
   
   title = 'vibeVault';
+
   http = inject(HttpClient);
   list: any = [];
   song: any = [];
