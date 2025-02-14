@@ -41,7 +41,22 @@
       "cover": "assets/Old Skool.jpg",
       "source": "./trending/Old Skool.aac",
       "id": 5
+    },
+    {
+      "title": "Mera Na",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/Mera Na.jpg",
+      "source": "./trending/Mera Na.aac",
+      "id": 6
+    },
+    {
+      "title": "Same Beef",
+      "artist": "Sidhu Moose Wala",
+      "cover": "assets/Same Beef.jpg",
+      "source": "./trending/Same Beef.aac",
+      "id": 7
     }
+
   ],
   "shubh": [
     {
@@ -78,7 +93,29 @@
       "cover": "assets/Buckle Up.jpg",
       "source": "./trending/Buckle Up.aac",
       "id": 4
+    },
+    {
+      "title": "Hood Anthem",
+      "artist": "Shubh",
+      "cover": "assets/Hood Anthem.jpg",
+      "source": "./trending/Hood Anthem.aac",
+      "id": 5
+    },
+    {
+      "title": "King Shit",
+      "artist": "Shubh",
+      "cover": "assets/King Shit.jpg",
+      "source": "./trending/King Shit.aac",
+      "id": 6
+    },
+    {
+      "title": "No Love",
+      "artist": "Shubh",
+      "cover": "assets/No Love.jpg",
+      "source": "./trending/No Love.aac",
+      "id": 7
     }
+    
   ],
   "karan": [
     {
