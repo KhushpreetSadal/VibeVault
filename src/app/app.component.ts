@@ -59,19 +59,18 @@ export class AppComponent {
       let name = data.input.toLocaleLowerCase()
       this.result = []
       if (name.length) {
-        let max = 0
+     
         this.allmusic.forEach((ele: any) => {
 
-          if(max<=7){
+          if(this.result.length<7){
             let user = ele.title.toLocaleLowerCase()
             if (user.includes(name)) {
                 this.result.push(ele)
                 this.show = true
-              max++;
+            
              
             } else if (this.result.length == 0) {
               this.show = false
-              max++;
             }
           }
          
