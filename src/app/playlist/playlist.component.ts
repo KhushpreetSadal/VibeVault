@@ -1,4 +1,3 @@
-import { NgFor } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Component, inject } from '@angular/core';
 import { AppComponent } from '../app.component';
@@ -49,7 +48,7 @@ export class PlaylistComponent {
     }
     else{
       this.comp.getAllSongs()
-      this.comp.setPath(this.sidhu[0],this.sidhu[0].id);
+      this.comp.setPath(this.sidhu[1],this.sidhu[1].id);
 
     }
   }
